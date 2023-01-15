@@ -15,5 +15,5 @@
     ./system/time/time.nix
     ./system/user/mrtuxa.nix
     ./system/x11/xserver.nix
-  ]
+  ];
 }
